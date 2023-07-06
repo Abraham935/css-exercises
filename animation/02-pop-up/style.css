@@ -53,7 +53,7 @@ button {
 }
 
 .popup-modal.show {
-  opacity: 100%;
+  opacity: 20%;
   pointer-events: all;
 }
 
